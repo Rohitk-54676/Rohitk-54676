@@ -1,15 +1,26 @@
-# Hi, I'm Rohit Kumar 👋
+<div align="center">
 
-### Full-Stack Developer | Building Practical Web Applications
+# Hi, I'm Rohit Kumar
 
-I'm a Computer Science and Engineering student focused on building modern, practical, and scalable web applications.
+### Full-Stack Developer · Computer Science Student
 
-- 🔭 Currently building full-stack projects
-- 🌱 Currently improving React, TypeScript, Node.js, and backend development
-- 💻 Interested in web development, system design, and AI-powered applications
-- 📍 Punjab, India
+I build practical web applications and enjoy turning ideas into functional products.
+
+Currently focused on **React, TypeScript, Node.js, Express, and PostgreSQL**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohitkumar9572)
+[![GitHub](https://img.shields.io/badge/GitHub-Rohitk--54676-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rohitk-54676)
+
+</div>
 
 ---
+
+## About Me
+
+- Building practical **full-stack web applications**
+- Interested in **web development, backend systems, and AI-powered applications**
+- Currently improving my **system design and backend development skills**
+- Based in **Punjab, India**
 
 ## 🚀 Tech Stack
 
