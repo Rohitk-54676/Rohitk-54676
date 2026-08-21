@@ -68,6 +68,24 @@ A full-stack event booking platform with authentication, event management, booki
 
 [View Repository](YOUR_EVENTZ_REPOSITORY_URL) · [Live Demo](https://eventz-qbqj.onrender.com)
 
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rohitk-54676&show_icons=true&hide_border=true"
+  height="165"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Rohitk-54676&hide_border=true"
+  height="165"
+/>
+
+</div>
+
 ## 📌 Connect With Me
 
 <p>
