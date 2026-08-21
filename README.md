@@ -41,6 +41,33 @@ Currently focused on **React, TypeScript, Node.js, Express, and PostgreSQL**.
 
 ---
 
+## Featured Projects
+
+### 🌐 Personal Portfolio
+A production-oriented personal portfolio platform built to showcase my projects, skills, achievements, and professional journey.
+
+**Tech:** React · TypeScript · Node.js · Express · PostgreSQL
+
+[View Repository](https://github.com/Rohitk-54676) · [Live Demo](YOUR_PORTFOLIO_URL)
+
+---
+
+### 🎓 UniSync
+A university companion platform designed to help students manage academic activities in one place.
+
+**Tech:** React · TypeScript · Node.js · Express · MongoDB
+
+[View Repository](YOUR_UNISYNC_REPOSITORY_URL)
+
+---
+
+### 🎟️ EventZ
+A full-stack event booking platform with authentication, event management, bookings, payments, and QR-based tickets.
+
+**Tech:** HTML · CSS · JavaScript · Node.js · Express · PostgreSQL
+
+[View Repository](YOUR_EVENTZ_REPOSITORY_URL) · [Live Demo](https://eventz-qbqj.onrender.com)
+
 ## 📌 Connect With Me
 
 <p>
